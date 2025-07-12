@@ -1,5 +1,6 @@
 Heya! Welcome to my Profile. 
-This is Rithwik Bejadi pursuing B.Tech in CSE(AI&ML) from Newton School of Technology, ADYPU, Pune
+-
+This is **Rithwik Bejadi** pursuing B.Tech in CSE(AI&ML) from **Newton School of Technology, ADYPU, Pune**
 A Developer/Coder aspiring to become an entreprenur
 Open Source Contributor, Built and contributed to many real world projects
 
