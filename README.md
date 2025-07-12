@@ -5,7 +5,6 @@ A Developer/Coder aspiring to become an entreprenur
 Open Source Contributor, Built and contributed to many real world projects
 
 ---
-## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=git" />
