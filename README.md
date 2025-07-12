@@ -1,3 +1,30 @@
-![RithwikBejadi's Stats](https://github-readme-stats.vercel.app/api?username=RithwikBejadi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<h1 align="center">Heya! Welcome to my Profile</h1>
 
+---
+
+## 👨‍💻 About Me
+
+🎓 This is **Rithwik Bejadi**, pursuing **B.Tech in CSE (AI & ML)** from  
+**Newton School of Technology, ADYPU, Pune**.
+
+💻 A **Developer/Coder** aspiring to become an Entrepreneur
+🤝 **Open Source Contributor**, built and contributed to many **real-world projects**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RithwikBejadi&theme=react&show_icons=true&hide_border=true&count_private=true" alt="RithwikBejadi's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RithwikBejadi&theme=react&hide_border=true" alt="RithwikBejadi's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithwikBejadi&theme=react&show_icons=true&hide_border=true&layout=compact" alt="RithwikBejadi's Top Languages" />
+</p>
+
+---
 
