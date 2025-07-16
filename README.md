@@ -36,4 +36,6 @@ Open Source Contributor, Built and contributed to many real world projects
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithwikBejadi&theme=react&show_icons=true&hide_border=true&layout=compact" alt="RithwikBejadi's Top Languages" />
 </p>
 
+---
+[![An image of @rithwikbejadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rithwikbejadi)](https://holopin.io/@rithwikbejadi)
 
