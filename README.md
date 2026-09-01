@@ -18,7 +18,7 @@ Building Flack
   <img src="https://skillicons.dev/icons?i=mongo" />
   <img src="https://skillicons.dev/icons?i=javascript"  />
     <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
